@@ -1,0 +1,6 @@
+Git y Github: que son y primeros pasos: https://www.aluracursos.com/blog/git-y-github-que-son-y-primeros-pasos
+
+Iniciando un repositorio con Git: https://www.aluracursos.com/blog/iniciando-repositorio-con-git
+
+Challenge ONE
+Principiante en programación: https://www.aluracursos.com/challenges/challenge-one-logica/sprint01-construye-un-encriptador-texto-con-javascript

@@ -1,0 +1,34 @@
+¡Hola!
+
+Mi nombre es Christian Velasco y seré tu instructor aquí en la plataforma Alura, en el curso de Lógica de Programación parte 1: Primeros pasos.
+
+A continuación, algunas recomendaciones e información que aconsejo tomar en cuenta para ahorrarte algunos dolores de cabeza a lo largo del curso.
+
+¿Qué editor de texto usar?
+
+Si eres usuario de Mac o Linux puedes usar cualquier editor de texto simple que venga con tu sistema operativo. Si eres usuario de Windows, se recomienda utilizar otros editores de texto.
+
+Dos editores muy usados son Sublime y Notepad++, puedes escoger cualquiera de ellos, solo refuerzo la importancia de seguir las instrucciones de instalación. Primero, descarga el programa, ejecútalo y luego siga el asistente hasta el final sin cambiar ninguna configuración.
+
+Algunos de los editores más utilizados son VSCode, Sublime, Notepad++, existen otros, puedes leer sobre ellos en el artículo,
+
+https://www.aluracursos.com/blog/sublime-atom-o-vscode-que-editor-de-codigo-es-mejor
+
+puedes escoger cualquiera de ellos, solo refuerzo la importancia de seguir las instrucciones de instalación. Primero, descarga el programa, ejecútalo y luego siga el asistente hasta el final sin cambiar ninguna configuración.
+
+Si tu sistema operativo utilizado es Linux o MAC, puedes usar el editor de texto estándar o descarga Sublime, que es multi-plataforma y tiene versiones para Windows, Linux y MAC.
+
+Existen también
+
+https://www.aluracursos.com/blog/editores-de-codigo-e-ides
+
+los cuales pueden ser utilizados sin ningún tipo de instalación, puedes desarrollar y compilar a través de navegadores, estas plataformas son una opción para quienes tienen limitaciones de hardware, e incluso para personas que programan a través de dispositivos móviles.
+
+¿Qué navegador usar?
+
+Puedes usar cualquier navegador que tenga un depurador (compilador). Sin embargo, se recomienda que uses Chrome, justamente, para obtener paridad visual con el instructor durante todo el entrenamiento.
+Es necesario utilizar los comandos "CTRL + O" para abrir los archivos HTML, cuando sea necesario, y F12 o “CTRL + SHIFT + i” para abrir la ventana de herramientas del desarrollador (DevTools). Esta característica se abrirá en una nueva ventana para usar el depurador y otras utilidades. Estos comandos se reiterarán a lo largo del desarrollo de los videos.
+
+Y ahora, ¿estás listo para aprender lógica de programación?
+
+Como dijo el viejo filósofo Aristóteles: «Empezar bien es tener la mitad hecha». ¡Éxito en tu jornada de estudio y aprendizaje!
